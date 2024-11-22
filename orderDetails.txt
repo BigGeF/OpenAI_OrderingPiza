@@ -1,0 +1,9 @@
+name: emily smith,
+phoneNumber: 987-654-3210,
+email: emily.smith@example.com,
+state: ca,
+city: san diego,
+address: 789 pacific beach dr,
+size: sm,
+comment: less cheese,
+toppings: black olives,red onion,green peppers,mushrooms
